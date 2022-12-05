@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'zeedotnetapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E376A24892149E7BDA954736B47D6A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31868ED3384F4A32978C722AFF6A3F7E }}
           package: .
